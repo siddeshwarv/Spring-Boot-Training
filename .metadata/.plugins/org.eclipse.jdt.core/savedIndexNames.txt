@@ -1,24 +1,2 @@
 INDEX VERSION 1.134+C:\Users\LENOVO\Documents\Springboot training\.metadata\.plugins\org.eclipse.jdt.core
-3423488042.index
-4098479527.index
-4076406056.index
-1856355790.index
-776971804.index
-504146645.index
-4250466069.index
 1865797976.index
-1893636646.index
-3820685109.index
-125062864.index
-2575700919.index
-1937061902.index
-1215320115.index
-3763103007.index
-1270212936.index
-420958788.index
-2603265650.index
-2308871424.index
-875526783.index
-3283423226.index
-165214560.index
-3109518509.index

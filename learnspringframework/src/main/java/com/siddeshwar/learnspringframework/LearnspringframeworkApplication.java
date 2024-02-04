@@ -11,7 +11,8 @@ import com.siddeshwar.learnspringframework.enterprise.example.web.MyWebControlle
 public class LearnspringframeworkApplication {
 
 	public static void main(String[] args) {
-//		GamingConsole game = new MarioGame();
+//		GamingConsole game = new Mar
+		ioGame();
 //		SuperContraGame game = new SuperContraGame();
 		ConfigurableApplicationContext context 
 		=	SpringApplication.run(LearnspringframeworkApplication.class, args);
