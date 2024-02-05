@@ -1,19 +1,16 @@
 package com.vs.courses.entities;
 
-import org.springframework.data.annotation.Id;
-
 import jakarta.persistence.Entity;
-import jakarta.persistence.Table;
-import lombok.Data;
+import jakarta.persistence.Id;
 
-@Data
 @Entity
 public class Course {
 	@Id
 	private long id;
 	private String title;
 	private String description;
-	
+	public Course() {
+    }
 	public Course(long id, String title, String description) {
 		super();
 		this.id = id;

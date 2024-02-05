@@ -11,6 +11,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.vs.courses.entities.Course;
@@ -59,4 +60,12 @@ public class MyController {
 		}
 	}
 	
+	@GetMapping("/courses/query")
+	public Course courseQueryParams(
+			@RequestParam(name="courseId",required=false) String courseId,
+			@RequestParam(name = "title",required=false) String title
+			) {
+		return this.courseService.getCourse(courseId,title);
+		
+	}
 }
