@@ -2,6 +2,13 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\LENOVO\Documents\Springboot training\siddeshwar"/>
+			<item value="C:\Users\LENOVO\Documents\Springboot training\courses-managment"/>
+			<item value="C:\Users\LENOVO\Documents\rr\SpringBoot-Bootcamp\employee-management"/>
+			<item value="C:\Users\LENOVO\Documents\Springboot training\learn-spring-boot_"/>
+			<item value="C:\Users\LENOVO\Documents\Springboot training\learnspringframework"/>
+			<item value="C:\Users\LENOVO\Documents\Springboot training\pratice\src\main\java\com\quickstart\pratice\PraticeApplication.java"/>
+			<item value="C:\Users\LENOVO\Documents\Springboot training\pratice"/>
 			<item value="C:\Users\LENOVO\Documents\Springboot training\quickstart"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -12,5 +19,9 @@
 			<item value="[groupId].[artifactId]-[version]"/>
 			<item value="[name]"/>
 		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
 	</section>
 </section>
