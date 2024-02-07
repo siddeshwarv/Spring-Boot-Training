@@ -14,7 +14,6 @@
     <fullyQualifiedTypeName name="com.siddeshwar.learnspringframework.enterprise.example.bussiness.BussinessService"/>
     <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="com.vs.courses.entities.Courses"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="com.vs.courses.services.CourseService"/>
@@ -27,4 +26,5 @@
     <fullyQualifiedTypeName name="com.vs.siddeshwar.repository.EmployeeRepository"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PostMapping"/>
     <fullyQualifiedTypeName name="org.springframework.http.ResponseEntity"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
 </qualifiedTypeNameHistroy>
