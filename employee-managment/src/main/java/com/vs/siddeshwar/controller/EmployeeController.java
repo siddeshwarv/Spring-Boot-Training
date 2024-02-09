@@ -18,11 +18,12 @@ import org.springframework.web.bind.annotation.RestController;
 import com.vs.siddeshwar.model.Employee;
 import com.vs.siddeshwar.service.EmployeeService;
 
+import lombok.extern.slf4j.Slf4j;
+@Slf4j
 @RestController
 @RequestMapping("/employees")
 public class EmployeeController {
 
-	private static final Logger log = LoggerFactory.getLogger(EmployeeController.class);
 	private EmployeeService employeeService;
 	
 	public EmployeeController(EmployeeService employeeService) {
