@@ -2,8 +2,9 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
-			<item value="C:\Users\LENOVO\Documents\React&amp;Spring\Employee"/>
 			<item value="C:\Users\LENOVO\Documents\Springboot training\native-query"/>
+			<item value="C:\Users\LENOVO\Documents\spring_boot_training\springNativeQueries"/>
+			<item value="C:\Users\LENOVO\Documents\React&amp;Spring\Employee"/>
 			<item value="C:\Users\LENOVO\Documents\learningportal"/>
 			<item value="C:\Users\LENOVO\Documents\learning-portal"/>
 			<item value="C:\Users\LENOVO\Documents\Springboot training\learningportal"/>
@@ -16,7 +17,6 @@
 			<item value="C:\Users\LENOVO\Documents\spring-boot\inventory\inventory"/>
 			<item value="C:\Users\LENOVO\Documents\Springboot training\siddeshwar"/>
 			<item value="C:\Users\LENOVO\Documents\Springboot training\courses-managment"/>
-			<item value="C:\Users\LENOVO\Documents\rr\SpringBoot-Bootcamp\employee-management"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
